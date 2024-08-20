@@ -16,24 +16,28 @@ export default function Hero() {
               <span>Code</span>
             </div>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-              #1 Most Affordable & Personalised Coding Bootcamp.
+              #1 Most Affordable & Personalised Full-Stack Coding Bootcamp.
             </h1>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-              In 3 months, you will be able to build full-stack apps and be
+              In 3 months, you will be able to build apps from scratch and be
               ready to apply for software developer jobs
             </p>
             <br />
-            <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
+            {/* <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
               We will hold your hand while you embark on your journey to code.
             </p>
+            <br /> */}
+
+            <p className="mx-auto max-w-[700px] font-bold md:text-xl ">
+              FULL-TIME & PART-TIME OPTIONS AVAILABLE
+            </p>
             <br />
-            <br />
-            <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-              Oh, and we only accept 6 students per cohort.
+            <p className="mx-auto max-w-[700px] font-bold md:text-xl text-blue-500">
+              NEXT COHORT: 21 SEPTEMBER 2024
             </p>
           </div>
           <div className="w-full max-w-sm space-y-2">
-            <Button type="submit">Get Started</Button>
+            <Button type="submit">Apply Now</Button>
 
             {/* <p className="text-xs text-muted-foreground">
               Sign up to unlock exclusive features and start building today.

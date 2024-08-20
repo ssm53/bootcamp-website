@@ -10,6 +10,7 @@ import Timeline from "./components/timeline";
 import FulltimeParttimeTable from "./components/fulltime-parttime-table";
 import Faq from "./components/faq";
 import Navbar from "./components/navbar";
+import Availability from "./components/availability";
 
 export default function HomePage() {
   return (
@@ -21,6 +22,7 @@ export default function HomePage() {
       <WhoSuitable />
       <SellingPoints />
       <QuitJob />
+      <Availability />
       <ApplicationProcess />
       <WhatYouWilllearn />
       <Timeline />

@@ -34,6 +34,20 @@ export default function Faq() {
             <Collapsible>
               <CollapsibleTrigger className="flex items-center justify-between w-full px-4 py-3 text-left bg-muted rounded-md">
                 <h3 className="text-lg font-medium">
+                  Is this a full-stack coding bootcamp?
+                </h3>
+                <ChevronDownIcon className="w-5 h-5 text-muted-foreground" />
+              </CollapsibleTrigger>
+              <CollapsibleContent className="px-4 py-3">
+                <p className="text-muted-foreground">
+                  Yeap, it is. We teach you the whole process. Frontend
+                  Development, Design, Databases & Backend Development.
+                </p>
+              </CollapsibleContent>
+            </Collapsible>
+            <Collapsible>
+              <CollapsibleTrigger className="flex items-center justify-between w-full px-4 py-3 text-left bg-muted rounded-md">
+                <h3 className="text-lg font-medium">
                   How long are the programs?
                 </h3>
                 <ChevronDownIcon className="w-5 h-5 text-muted-foreground" />

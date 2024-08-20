@@ -21,107 +21,86 @@ export default function FounderMessage() {
         <div className="order-1 lg:order-2 space-y-4 text-center lg:text-left">
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none mb-20">
-              Hey guys, I'm Shaun...
+              Hey peeps, I'm Shaun...
             </h2>
             <p className="text-muted-foreground md:text-xl">
-              I learnt to code in 2023 without a Masters or a Degree.
+              I started learning to code in April 2023.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              In December 2023, I received 4 software developer job offers.
+              By the end of the year, I received 4 software developer job
+              offers.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              I've managed to build and sell various tech products to
-              businesses, and most importantly tech products that actually help
-              'em.
+              This was done withut a Degree or a Master's. I mean... it was too
+              expensive!
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              By nature, I'm not that much of a tech person. In college, I
-              didn't know how to save my documents on a computer. So, I saved it
-              by sending stuff to my sister through Facebook Messenger chat
-              hahaha so yeah not gonna lie learning to code was difficult for
-              me... very difficult, but I bloody did it, and it's been one of
-              the most rewarding things I've done.
+              I've also managed to build and sell various tech products to
+              businesses, that actually add value for them.
             </p>
             <br />
-            <ol className="text-muted-foreground md:text-xl list-disc list-inside">
-              <p>These are the projects that I have built:</p>
-              <br />
-              <li>
-                I'm currently building{" "}
-                <Link
-                  href="https://www.ravewavedigital.com/portfolio#ezla"
-                  target="_blank"
-                  className="underline"
-                >
-                  EZLA
-                </Link>
-                , an AI startup that generates personalized job-specific cover
-                letters in under 20 seconds. This is in beta mode and releasing
-                in Q4 2024.
-              </li>
-              <br />
-              <li>
-                <Link
-                  href="https://www.ravewavedigital.com/portfolio#clinitOS"
-                  target="_blank"
-                  className="underline"
-                >
-                  ClinitOS
-                </Link>
-                , anll-in-one clinic management system for GP doctors.
-              </li>
-              <br />
-              <li>
-                <Link
-                  href="https://www.ravewavedigital.com/portfolio#clinitOS"
-                  target="_blank"
-                  className="underline"
-                >
-                  Rating Up
-                </Link>
-                , a tech system that filters out bad Google reviews before they
-                reach Google.
-              </li>
-              <br />
-              <li>
-                Various other websites{" "}
-                <Link
-                  href="https://www.ravewavedigital.com/portfolio#general"
-                  target="_blank"
-                  className="underline"
-                >
-                  here
-                </Link>
-              </li>
-            </ol>
+            <p className="text-muted-foreground md:text-xl">
+              Currently, I am building EZLA, an AI SaaS that is able to generate
+              personalised job specific cover letters under 20 seconds.
+            </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
               You can see more of my work{" "}
               <Link
                 href="https://www.ravewavedigital.com/portfolio"
                 target="_blank"
-                className="underline"
+                className="underline font-bold"
               >
-                here
+                HERE
               </Link>
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              I aim to provide y'all with what I did not have when I was
-              learning, which is:
+              Oh, and here is my{" "}
+              <Link
+                href="https://www.linkedin.com/in/shaun-shanil-menezes/"
+                target="_blank"
+                className="underline font-bold"
+              >
+                Linkedin
+              </Link>
+              .
+            </p>
+            <br />
+
+            <p className="text-muted-foreground md:text-xl">
+              Previously, I studied at the Uni of Bath and and worked as an
+              accountant at Deloitte in the UK. I then came back to my home
+              country Malaysia to start a crypto company which did relatively
+              well at the start, but it ultimately failed.
+            </p>
+            <br />
+            <p className="text-muted-foreground md:text-xl">
+              I remember feeling abit helpless cause I lacked the skills to turn
+              it around, specifically tech skills. Lesson learnt but yeah, not a
+              nice feelling hahaha
+            </p>
+            <br />
+            <p className="text-muted-foreground md:text-xl">
+              That's when I decided to properly learn how to code.
+            </p>
+            <br />
+            <p className="text-muted-foreground md:text-xl">
+              I aim here at HeyLearn2Code is to provide y'all with what I did
+              not have when I was learning:
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl font-bold">
               To have someone guiding you on exactly how to do it and provide
               you instant help when needed... at an affordable price.
             </p>
-            <br />
+            {/* <br />
             <p className="text-muted-foreground md:text-xl font-bold">
               and HeyLearn2Code was born!
-            </p>
+            </p> */}
           </div>
         </div>
       </div>

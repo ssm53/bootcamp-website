@@ -8,9 +8,10 @@ export default function WhoSuitable() {
               Who is this for?
             </h2>
             <ul className="space-y-2 text-muted-foreground">
-              <li>Between the age of 15-35</li>
-              <br />
-              <li>Want to build apps for their ideas</li>
+              <li>
+                Want to understand and build cool apps from scratch. No more
+                just ideas!
+              </li>
               <br />
               <li>Want to get a job in tech</li>
               <br />
