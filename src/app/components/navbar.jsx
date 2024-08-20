@@ -9,7 +9,7 @@ export default function Navbar() {
           <MountainIcon className="h-6 w-6 text-white" />
           <span className="sr-only">Acme Inc</span>
         </Link> */}
-        <div className="text-2xl font-bold tracking-tighter sm:text-2xl md:text-3xl lg:text-4xl/none">
+        <div className="text-xl sm:text-xl md:text-2xl lg:text-3xl font-bold tracking-tighter">
           <span className="text-blue-500">Hey</span>
           <span>Learn</span>
           <span className="text-blue-500">2</span>

@@ -24,8 +24,11 @@ export default function FounderMessage() {
               Hey guys, I'm Shaun...
             </h2>
             <p className="text-muted-foreground md:text-xl">
-              I learnt to code in 2023 without a Masters or a Degree. In
-              December 2023, I received 4 software developer job offers.
+              I learnt to code in 2023 without a Masters or a Degree.
+            </p>
+            <br />
+            <p className="text-muted-foreground md:text-xl">
+              In December 2023, I received 4 software developer job offers.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
@@ -47,21 +50,51 @@ export default function FounderMessage() {
               <p>These are the projects that I have built:</p>
               <br />
               <li>
-                I'm currently building EZLA, an AI startup that generates
-                personalized job-specific cover letters in under 20 seconds.
-                This is in beta mode and releasing in Q4 2024.
+                I'm currently building{" "}
+                <Link
+                  href="https://www.ravewavedigital.com/portfolio#ezla"
+                  target="_blank"
+                  className="underline"
+                >
+                  EZLA
+                </Link>
+                , an AI startup that generates personalized job-specific cover
+                letters in under 20 seconds. This is in beta mode and releasing
+                in Q4 2024.
               </li>
               <br />
-              <li>All-in-one clinic management system for GP doctors.</li>
-              <br />
               <li>
-                Rating Up, a tech system that filters bad Google reviews before
-                they reach Google.
+                <Link
+                  href="https://www.ravewavedigital.com/portfolio#clinitOS"
+                  target="_blank"
+                  className="underline"
+                >
+                  ClinitOS
+                </Link>
+                , anll-in-one clinic management system for GP doctors.
               </li>
               <br />
               <li>
-                Various other websites and an AI chatbot for a crypto project
-                (NDA signed).
+                <Link
+                  href="https://www.ravewavedigital.com/portfolio#clinitOS"
+                  target="_blank"
+                  className="underline"
+                >
+                  Rating Up
+                </Link>
+                , a tech system that filters out bad Google reviews before they
+                reach Google.
+              </li>
+              <br />
+              <li>
+                Various other websites{" "}
+                <Link
+                  href="https://www.ravewavedigital.com/portfolio#general"
+                  target="_blank"
+                  className="underline"
+                >
+                  here
+                </Link>
               </li>
             </ol>
             <br />
@@ -77,14 +110,13 @@ export default function FounderMessage() {
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              Now, I want to share with you what I know on how to do it. I aim
-              to provide y'all with what I did not have when I was learning,
-              which is:
+              I aim to provide y'all with what I did not have when I was
+              learning, which is:
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl font-bold">
-              To have someone guiding you on what to learn and providing you
-              instant help when needed... at a super affordable price.
+              To have someone guiding you on exactly how to do it and provide
+              you instant help when needed... at an affordable price.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl font-bold">
