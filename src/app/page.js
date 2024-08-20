@@ -18,10 +18,10 @@ export default function HomePage() {
       <Hero />
       <FounderMessage />
       <IsThisForBeginners />
+      <WhoSuitable />
       <SellingPoints />
       <QuitJob />
       <ApplicationProcess />
-      <WhoSuitable />
       <WhatYouWilllearn />
       <Timeline />
       <FulltimeParttimeTable />

@@ -20,7 +20,7 @@ export default function FounderMessage() {
         </div>
         <div className="order-1 lg:order-2 space-y-4 text-center lg:text-left">
           <div className="space-y-2">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none mb-20">
               Hey guys, I'm Shaun...
             </h2>
             <p className="text-muted-foreground md:text-xl">
@@ -43,21 +43,25 @@ export default function FounderMessage() {
               the most rewarding things I've done.
             </p>
             <br />
-            <ol className="text-muted-foreground md:text-xl">
-              These are the projects that I have built
+            <ol className="text-muted-foreground md:text-xl list-disc list-inside">
+              <p>These are the projects that I have built:</p>
+              <br />
               <li>
-                - I'm currently building EZLA, an AI startup which is able to
-                generate personalised job specific cover letters under 20
-                seconds. This is in beta mode and releasing in Q4 2024.
+                I'm currently building EZLA, an AI startup that generates
+                personalized job-specific cover letters in under 20 seconds.
+                This is in beta mode and releasing in Q4 2024.
               </li>
-              <li> - All-in-one clinic management system for GP doctors.</li>
+              <br />
+              <li>All-in-one clinic management system for GP doctors.</li>
+              <br />
               <li>
-                - Rating Up, which is a tech system that filter bad Google
-                reviews before it reaches Google.
+                Rating Up, a tech system that filters bad Google reviews before
+                they reach Google.
               </li>
+              <br />
               <li>
-                - Various other websites and an AI chatbot for a crypto project
-                (NDA signed)
+                Various other websites and an AI chatbot for a crypto project
+                (NDA signed).
               </li>
             </ol>
             <br />

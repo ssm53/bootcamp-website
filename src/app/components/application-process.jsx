@@ -10,10 +10,10 @@ export default function ApplicationProcess() {
           <h2 className="text-5xl font-bold tracking-tighter">
             Application Process
           </h2>
-          <p className="text-muted-foreground md:text-xl">
+          {/* <p className="text-muted-foreground md:text-xl">
             First come, first serve but we won't be accepting everyone
             unfortunately. We only want suitable candidates.
-          </p>
+          </p> */}
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           <div className="flex items-start gap-4">

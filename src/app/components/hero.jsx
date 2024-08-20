@@ -1,6 +1,7 @@
 "use client";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import Image from "next/image";
 
 export default function Hero() {
   return (
@@ -8,6 +9,12 @@ export default function Hero() {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center gap-4 text-center">
           <div className="space-y-2">
+            <div className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none mb-6">
+              <span className="text-blue-500">Hey</span>
+              <span>Learn</span>
+              <span className="text-blue-500">2</span>
+              <span>Code</span>
+            </div>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
               #1 Most Affordable & Personalised Coding Bootcamp.
             </h1>

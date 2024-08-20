@@ -9,9 +9,13 @@ export default function WhoSuitable() {
             </h2>
             <ul className="space-y-2 text-muted-foreground">
               <li>Between the age of 15-35</li>
+              <br />
+              <li>Want to build apps for their ideas</li>
+              <br />
               <li>Want to get a job in tech</li>
-              <li>Want to know how tech startups are built</li>
+              <br />
               <li>Want to pick up a side hustle</li>
+              <br />
               <li>Motivated</li>
             </ul>
           </div>
@@ -23,13 +27,15 @@ export default function WhoSuitable() {
             </h2>
             <ul className="space-y-2 text-muted-foreground">
               <li>People unwilling to put in the hard work and dedication</li>
+              <br />
               <li>
                 Looking for a secret sauce that magically gives you the ability
                 to code
               </li>
+              <br />
               <li>
-                If you dont like chicken rice (haha just kidding) ha ha ha very
-                funny Shaun
+                If you dont like steak, we cant be friends (haha just kidding)
+                ha ha very funny Shaun
               </li>
             </ul>
           </div>

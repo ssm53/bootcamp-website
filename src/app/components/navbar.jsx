@@ -1,16 +1,23 @@
-import Link from "next/link"
+import Link from "next/link";
+import Image from "next/image";
 
 export default function Navbar() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#2d3748] py-4 px-6 md:px-8">
       <div className="container mx-auto flex items-center justify-between">
-        <Link href="#" className="flex items-center" prefetch={false}>
+        {/* <Link href="#" className="flex items-center" prefetch={false}>
           <MountainIcon className="h-6 w-6 text-white" />
           <span className="sr-only">Acme Inc</span>
-        </Link>
+        </Link> */}
+        <div className="text-2xl font-bold tracking-tighter sm:text-2xl md:text-3xl lg:text-4xl/none">
+          <span className="text-blue-500">Hey</span>
+          <span>Learn</span>
+          <span className="text-blue-500">2</span>
+          <span>Code</span>
+        </div>
       </div>
     </header>
-  )
+  );
 }
 
 function MountainIcon(props) {
@@ -29,5 +36,5 @@ function MountainIcon(props) {
     >
       <path d="m8 3 4 8 5-5 5 15H2L8 3z" />
     </svg>
-  )
+  );
 }
