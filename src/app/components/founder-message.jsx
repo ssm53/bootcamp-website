@@ -68,7 +68,7 @@ export default function FounderMessage() {
             <p className="text-muted-foreground md:text-xl">
               You can see more of my work{" "}
               <Link
-                href="www.ravewavedigital.com"
+                href="https://www.ravewavedigital.com/portfolio"
                 target="_blank"
                 className="underline"
               >
