@@ -24,27 +24,29 @@ export default function FounderMessage() {
               Hey peeps, I'm Shaun...
             </h2>
             <p className="text-muted-foreground md:text-xl">
-              I started learning to code in April 2023.
+              I'm the founder of HeyLearn2Code and I just wanna say a few
+              words...
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              By the end of the year, I received 4 software developer job
-              offers.
+              I learned to code in April 2023. By the end of the year, I
+              received 4 software developer job offers.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
               This was done withut a Degree or a Master's. I mean... it was too
-              expensive!
+              expensive and they take too darn long!
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              I've also managed to build and sell various tech products to
-              businesses, that actually add value for them.
+              I went down the freelance route and built and sold various tech
+              products to businesses, that actually add value for them.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
               Currently, I am building EZLA, an AI SaaS that is able to generate
-              personalised job specific cover letters under 20 seconds.
+              personalised job specific resumes and cover letters under 20
+              seconds. This is in beta mode and is launching in Q4 2024.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
@@ -74,33 +76,30 @@ export default function FounderMessage() {
             <p className="text-muted-foreground md:text-xl">
               Previously, I studied at the Uni of Bath and and worked as an
               accountant at Deloitte in the UK. I then came back to my home
-              country Malaysia to start a crypto company which did relatively
-              well at the start, but it ultimately failed.
+              country Malaysia to start a crypto company which had a 7-figure
+              profit in 2021.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              I remember feeling abit helpless cause I lacked the skills to turn
-              it around, specifically tech skills. Lesson learnt but yeah, not a
-              nice feelling hahaha
+              That venture ultimately failed but I experienced first-hand the
+              amount of value you can add to your organisation if you learn to
+              code.
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              That's when I decided to properly learn how to code.
+              Well, that's when I knuckled down and learned to code!
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
-              I aim here at HeyLearn2Code is to provide y'all with what I did
+              My aim here at HeyLearn2Code is to provide y'all with what I did
               not have when I was learning:
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl font-bold">
-              To have someone guiding you on exactly how to do it and provide
-              you instant help when needed... at an affordable price.
+              To have someone guiding you on exactly how to do it, provide you
+              instant help when needed and to guarantee that you get a job... at
+              an affordable price.
             </p>
-            {/* <br />
-            <p className="text-muted-foreground md:text-xl font-bold">
-              and HeyLearn2Code was born!
-            </p> */}
           </div>
         </div>
       </div>

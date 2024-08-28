@@ -26,7 +26,8 @@ export default function ApplicationProcess() {
                   here
                 </Link>{" "}
                 to get started. We'll review your information and get back to
-                you.
+                you for an interview in 2-3 days. Again, don't feel insecure if
+                you have not coded before!
               </p>
             </div>
           </div>
@@ -45,8 +46,8 @@ export default function ApplicationProcess() {
             <div>
               <h3 className="text-2xl font-semibold">Acceptance</h3>
               <p className="text-muted-foreground">
-                After the interview, we'll let you know if you've been accepted
-                into the program.
+                After the interview, we'll let you know within a day if you've
+                been accepted into the program.
               </p>
             </div>
           </div>

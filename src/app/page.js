@@ -11,6 +11,9 @@ import FulltimeParttimeTable from "./components/fulltime-parttime-table";
 import Faq from "./components/faq";
 import Navbar from "./components/navbar";
 import Availability from "./components/availability";
+import DegreeVsBootcamp from "./components/degreevsbootcamp";
+import ContactDetails from "./components/contact-details";
+import InANutshell from "./components/in-a-nutshell";
 
 export default function HomePage() {
   return (
@@ -21,12 +24,15 @@ export default function HomePage() {
       <IsThisForBeginners />
       <WhoSuitable />
       <SellingPoints />
+      <InANutshell />
       <QuitJob />
       <Availability />
       <ApplicationProcess />
       <WhatYouWilllearn />
       <Timeline />
+      <DegreeVsBootcamp />
       <FulltimeParttimeTable />
+      <ContactDetails />
       <Faq />
     </div>
   );

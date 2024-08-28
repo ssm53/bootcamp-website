@@ -19,8 +19,12 @@ export default function Hero() {
               #1 Most Affordable & Personalised Full-Stack Coding Bootcamp.
             </h1>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-              In 3 months, you will be able to build apps from scratch and be
-              ready to apply for software developer jobs
+              Est August 2024
+            </p>
+            <br />
+            <p className="mx-auto max-w-[700px] font-bold md:text-xl ">
+              WE GUARANTEE YOU GET A DEVELOPER JOB... IF NOT, IT WILL BE FREE
+              100% FOR YOU
             </p>
             <br />
             {/* <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
@@ -33,7 +37,7 @@ export default function Hero() {
             </p>
             <br />
             <p className="mx-auto max-w-[700px] font-bold md:text-xl text-blue-500">
-              NEXT COHORT: 21 SEPTEMBER 2024
+              OUR FIRST COHORT: 21 SEPTEMBER 2024
             </p>
           </div>
           <div className="w-full max-w-sm space-y-2">

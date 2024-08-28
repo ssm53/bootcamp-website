@@ -1,13 +1,13 @@
-export default function FulltimeParttimeTable() {
+export default function DegreeVsBootcamp() {
   return (
     <section className="flex items-center justify-center w-full py-12 md:py-24 lg:py-32 bg-[#f0e6d6]">
       <div className="container px-4 md:px-6">
         <div className="space-y-6 text-center">
           <h2 className="text-5xl font-bold tracking-tighter">
-            Full-Time vs Part-Time Curriculum
+            Why it makes sense to join us...
           </h2>
           <p className="text-muted-foreground">
-            Compare the differences of our full-time and part-time options
+            Compare the differences for your self
           </p>
         </div>
         <div className="mt-12">
@@ -17,41 +17,70 @@ export default function FulltimeParttimeTable() {
                 <tr className="bg-muted text-muted-foreground">
                   <th className="px-4 py-3 text-left md:px-6 lg:px-8"></th>
                   <th className="px-4 py-3 text-left md:px-6 lg:px-8">
-                    Full-Time
+                    Degree/ Master's
                   </th>
                   <th className="px-4 py-3 text-left md:px-6 lg:px-8">
-                    Part-Time
+                    Our bootcamp
+                  </th>
+                  <th className="px-4 py-3 text-left md:px-6 lg:px-8">
+                    Other bootcamps
                   </th>
                 </tr>
               </thead>
               <tbody>
                 <tr className="border-b">
-                  <td className="px-4 py-3 md:px-6 lg:px-8">Duration</td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">3-4 months</td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">6-8 months</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">Coding hours</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">450+</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">450+</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">450+</td>
+                </tr>
+                <tr className="border-b">
+                  <td className="px-4 py-3 md:px-6 lg:px-8">Total Cost</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 80-150K</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 1.15-1.6K</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 3-20K</td>
                 </tr>
                 <tr className="border-b">
                   <td className="px-4 py-3 md:px-6 lg:px-8">
-                    Access to All Coding Projects
+                    Cost if Unemployed
                   </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
-                  </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
-                  </td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 80-150K</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 0</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 3-20K</td>
                 </tr>
                 <tr className="border-b">
-                  <td className="px-4 py-3 md:px-6 lg:px-8">Cost</td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    RM 5K (USD 1.15K)
-                  </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    RM 7K (USD 1.6K)
-                  </td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">Time Commitment</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">4 years</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">3 months</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">3 months</td>
                 </tr>
                 <tr className="border-b">
-                  <td className="px-4 py-3 md:px-6 lg:px-8">Career Coaching</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">Total Cost</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 80-150K</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 1.15-1.6K</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">USD 3-20K</td>
+                </tr>
+                <tr className="border-b">
+                  <td className="px-4 py-3 md:px-6 lg:px-8">
+                    Number of Students per cohort
+                  </td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">100+</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">Max of 6</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">15-40</td>
+                </tr>
+                <tr className="border-b">
+                  <td className="px-4 py-3 md:px-6 lg:px-8">Time Commitment</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">4 years</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">3 months</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">3 months</td>
+                </tr>
+                <tr className="border-b">
+                  <td className="px-4 py-3 md:px-6 lg:px-8">
+                    Practical Skills
+                  </td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">
+                    <XIcon className="w-5 h-5 text-red-500" />
+                  </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">
                     <CheckIcon className="w-5 h-5 text-green-500" />
                   </td>
@@ -62,15 +91,7 @@ export default function FulltimeParttimeTable() {
                 <tr className="border-b">
                   <td className="px-4 py-3 md:px-6 lg:px-8">Career Prep</td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
-                  </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
-                  </td>
-                </tr>
-                <tr className="border-b">
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    Real-life Project for Business
+                    <XIcon className="w-5 h-5 text-red-500" />
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">
                     <CheckIcon className="w-5 h-5 text-green-500" />
@@ -81,24 +102,16 @@ export default function FulltimeParttimeTable() {
                 </tr>
                 <tr className="border-b">
                   <td className="px-4 py-3 md:px-6 lg:px-8">
-                    Build capstone projects (AI chatbot, e-commerce marketplace)
+                    Real-life Project for a real business
+                  </td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">
+                    <XIcon className="w-5 h-5 text-red-500" />
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">
                     <CheckIcon className="w-5 h-5 text-green-500" />
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
-                  </td>
-                </tr>
-                <tr className="border-b">
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    Build AI projects
-                  </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
-                  </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">
-                    <CheckIcon className="w-5 h-5 text-green-500" />
+                    <XIcon className="w-5 h-5 text-red-500" />
                   </td>
                 </tr>
               </tbody>
