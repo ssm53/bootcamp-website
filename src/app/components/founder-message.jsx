@@ -51,22 +51,14 @@ export default function FounderMessage() {
             <br />
             <p className="text-muted-foreground md:text-xl">
               You can see more of my work{" "}
-              <Link
-                href="https://www.ravewavedigital.com/portfolio"
-                target="_blank"
-                className="underline font-bold"
-              >
+              <Link href="#" target="_blank" className="underline font-bold">
                 HERE
               </Link>
             </p>
             <br />
             <p className="text-muted-foreground md:text-xl">
               Oh, and here is my{" "}
-              <Link
-                href="https://www.linkedin.com/in/shaun-shanil-menezes/"
-                target="_blank"
-                className="underline font-bold"
-              >
+              <Link href="#" target="_blank" className="underline font-bold">
                 Linkedin
               </Link>
               .

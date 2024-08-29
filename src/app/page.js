@@ -14,6 +14,8 @@ import Availability from "./components/availability";
 import DegreeVsBootcamp from "./components/degreevsbootcamp";
 import ContactDetails from "./components/contact-details";
 import InANutshell from "./components/in-a-nutshell";
+import MoneyBackGuarantee from "./components/money-back-guarantee";
+import HelpAfterBootcamp from "./components/help-after-bootcamp";
 
 export default function HomePage() {
   return (
@@ -25,6 +27,8 @@ export default function HomePage() {
       <WhoSuitable />
       <SellingPoints />
       <InANutshell />
+      <MoneyBackGuarantee />
+      <HelpAfterBootcamp />
       <QuitJob />
       <Availability />
       <ApplicationProcess />

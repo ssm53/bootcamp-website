@@ -19,7 +19,7 @@ export default function WhatYouWilllearn() {
               </h2>
               <p className="text-muted-foreground">
                 Javascript, Svelte, NextJS, HTML, CSS, Tailwind, DaisyUI,
-                ShadcnUI
+                ShadcnUI, Langchain
               </p>
             </div>
           </div>
@@ -29,7 +29,7 @@ export default function WhatYouWilllearn() {
                 Backend Programming
               </h2>
               <p className="text-muted-foreground">
-                NodeJS, ExpressJS, AWS, Prisma, Docker
+                NodeJS, ExpressJS, AWS, Prisma, Docker, PostgreSQl, SQL
               </p>
             </div>
           </div>
