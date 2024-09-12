@@ -18,7 +18,7 @@ export default function TwoNavbar() {
         <div className="ml-auto flex gap-4">
           <Button
             variant="outline"
-            className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base"
+            className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base ml-5"
           >
             APPLY NOW
           </Button>
