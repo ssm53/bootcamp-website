@@ -59,6 +59,8 @@ import TwoFaq from "./components/two-faq";
 import TwoNavbar from "./components/two-navbar";
 import TwoPricing from "./components/two-pricing";
 import TwoFooter from "./components/two-footer";
+import TwoAdmissionRequirement from "./components/two-admission-requirement";
+import TwoCohorts from "./components/two-cohorts";
 
 export default function HomePage() {
   return (
@@ -71,8 +73,10 @@ export default function HomePage() {
       <TwoWhoSuitable />
       <TwoSellingPoints />
       <TwoMoneyBackGuarantee />
+      <TwoCohorts />
       <TwoWhatYouWilllearn />
       <TwoApplicationProcess />
+      <TwoAdmissionRequirement />
       <TwoQuitJob />
       <TwoAvailability />
       <TwoDegreeVsBootcamp />
@@ -83,8 +87,3 @@ export default function HomePage() {
     </div>
   );
 }
-
-// need to do google form for apply here - done
-// need to do admission requirement, and list of cohorts
-// change avatar to anyone who is studying or graduated less than 6 years ago
-// this is not a udemy course section.. you get actual live help..

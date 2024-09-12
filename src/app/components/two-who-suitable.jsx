@@ -7,6 +7,9 @@ export default function TwoWhoSuitable() {
           <h2 className="text-5xl font-bold tracking-tighter">
             Who is this for?
           </h2>
+          <p className="text-xl font-bold uppercase text-blue-500 md:text-2xl">
+            ONLY FOR THOSE WHO GRADUATED LESS THAN 6 YEARS AGO
+          </p>
         </div>
 
         {/* Existing grid layout */}
@@ -16,7 +19,7 @@ export default function TwoWhoSuitable() {
               <h2 className="text-5xl font-bold tracking-tighter">
                 Your current situation
               </h2>
-              <ul className="space-y-2 text-xl text-muted-foreground md:text-2xl">
+              <ul className="space-y-2 text-xl text-muted-foreground md:text-2xl ">
                 <li>
                   - You have never learned to code OR you joined some online
                   do-yourself course only to get confused! (that was me haha)

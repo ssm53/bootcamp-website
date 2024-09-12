@@ -21,8 +21,8 @@ export default function TwoPricing() {
                 <p className="mt-2 text-lg text-muted-foreground">
                   Regular Price
                 </p>
-                <h3 className="text-3xl font-bold line-through">$5,000</h3>
-                <h3 className="text-4xl font-bold">$500</h3>
+                <h3 className="text-3xl font-bold line-through">$6,000</h3>
+                <h3 className="text-4xl font-bold">$900</h3>
               </div>
               <div className="rounded-full bg-primary px-3 py-1 text-xs font-medium text-primary-foreground">
                 OG Discount
@@ -38,7 +38,7 @@ export default function TwoPricing() {
             <p className="mt-2 text-sm text-muted-foreground text-center">
               {" "}
               {/* Centered text */}
-              Save $4,500 with the OG Discount
+              Save $5,100 with the OG Discount
             </p>
           </div>
         </div>

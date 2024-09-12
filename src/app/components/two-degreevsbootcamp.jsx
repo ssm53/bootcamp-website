@@ -33,7 +33,7 @@ export default function TwoDegreeVsBootcamp() {
                     USD 80,000-150,000
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8 font-bold text-blue-600">
-                    USD 500
+                    USD 900
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">
                     USD 3,000-2,000K

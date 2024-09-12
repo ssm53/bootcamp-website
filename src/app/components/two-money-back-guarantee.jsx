@@ -14,8 +14,7 @@ export default function TwoMoneyBackGuarantee() {
         </div>
         <div>
           <p className="md:text-xl text-gray-200">
-            We believe in our program so strongly that we're offering an
-            incredible money-back guarantee.
+            If you dont get a job, you get a 100% refund.
           </p>
           <br />
           <p className="text-gray-200 md:text-xl">

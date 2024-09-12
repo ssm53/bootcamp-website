@@ -106,7 +106,7 @@ export default function TwoHero() {
               If not, it is 100% FREE.
             </p>
             <p className="text-lg font-bold uppercase text-blue-500 md:text-xl">
-              FOR THOSE WHO GRADUATED LESS THAN 6 YEARS AGO
+              ONLY FOR THOSE WHO GRADUATED LESS THAN 6 YEARS AGO
             </p>
           </div>
 
