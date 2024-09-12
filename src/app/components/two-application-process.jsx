@@ -22,7 +22,11 @@ export default function TwoApplicationProcess() {
               <h3 className="text-2xl font-semibold">Register</h3>
               <p className="text-xl text-muted-foreground md:text-2xl">
                 Fill out our application form{" "}
-                <Link href="#" className="underline">
+                <Link
+                  href="https://forms.gle/Kyz6t3iFxqzPNWYm8"
+                  target="_blank"
+                  className="underline"
+                >
                   here
                 </Link>{" "}
                 to get started. We'll review your information and get back to

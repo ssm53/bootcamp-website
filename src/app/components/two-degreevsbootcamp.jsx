@@ -55,9 +55,9 @@ export default function TwoDegreeVsBootcamp() {
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">1-2 years</td>
                   <td className="px-4 py-3 md:px-6 lg:px-8 font-bold text-blue-600">
-                    3 months
+                    4 months
                   </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">3 months</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">3 - 6 months</td>
                 </tr>
                 <tr className="border-b">
                   <td className="px-4 py-3 md:px-6 lg:px-8 font-bold">
@@ -65,9 +65,9 @@ export default function TwoDegreeVsBootcamp() {
                   </td>
                   <td className="px-4 py-3 md:px-6 lg:px-8">3-4 years</td>
                   <td className="px-4 py-3 md:px-6 lg:px-8 font-bold text-blue-600">
-                    6-8 months
+                    7-8 months
                   </td>
-                  <td className="px-4 py-3 md:px-6 lg:px-8">6-8 months</td>
+                  <td className="px-4 py-3 md:px-6 lg:px-8">7-9 months</td>
                 </tr>
 
                 <tr className="border-b">

@@ -79,7 +79,12 @@ export default function HomePage() {
       <TwoPricing />
       <TwoContactDetails />
       <TwoFaq />
-      <TwoFooter/>
+      <TwoFooter />
     </div>
   );
 }
+
+// need to do google form for apply here - done
+// need to do admission requirement, and list of cohorts
+// change avatar to anyone who is studying or graduated less than 6 years ago
+// this is not a udemy course section.. you get actual live help..
