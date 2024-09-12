@@ -11,7 +11,7 @@ export default function TwoGetFreeAccess() {
             </h1>
             <div className="space-y-2">
               <p className="text-xl text-muted-foreground md:text-2xl">
-                600+ hours of material
+                560+ hours of material
               </p>
               <p className="text-xl text-muted-foreground md:text-2xl">
                 From complete beginner to building full-stack apps
