@@ -7,10 +7,10 @@ export default function TwoSellingPoints() {
         {/* This section remains unchanged */}
         <div className="text-center space-y-4">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-            This is not like other bootcamps...
+            HeyLearn2Code's Method
           </h2>
           <p className="text-muted-foreground md:text-2xl">
-            Here's why our bootcamp stands out from the rest.
+            Some Key Takeaways...
           </p>
         </div>
 
@@ -35,8 +35,8 @@ export default function TwoSellingPoints() {
             <div className="text-center space-y-1">
               <h3 className="text-xl font-semibold">Instant Help</h3>
               <p className="text-muted-foreground text-base">
-                You will get stuck while learning. I will help you within 15
-                mins. This is not a udemy course where you are alone..
+                You will get stuck while learning. Ask for help and I'll attend
+                to your issue. This is not a Udemy course where you learn alone.
               </p>
             </div>
           </div>
@@ -58,56 +58,18 @@ export default function TwoSellingPoints() {
 
           <div className="flex flex-col items-center space-y-3">
             <div className="bg-muted rounded-full p-4 flex items-center justify-center">
-              <SettingsIcon className="w-8 h-8" />
-            </div>
-            <div className="text-center space-y-1">
-              <h3 className="text-xl font-semibold">Learn to code with AI</h3>
-              <p className="text-muted-foreground text-base">
-                AI is cool and helpful. I'll teach you how to properly utilise
-                it.
-              </p>
-            </div>
-          </div>
-
-          <div className="flex flex-col items-center space-y-3">
-            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
               <RocketIcon className="w-8 h-8" />
             </div>
             <div className="text-center space-y-1">
               <h3 className="text-xl font-semibold">Career Support</h3>
               <p className="text-muted-foreground text-base">
-                After you've graduated, we still support you. We dedicate one
-                person as support to you, have weekly calls to advise you on
-                what to do. We also provide you these templates - resume, cover
-                letter, portfolio, email intro.
+                After you've graduated, we still support you. We guide, advise
+                and monitor your job applications through weekly calls. You also
+                get templates for portfolio websites, resumes, cover letters &
+                introductory emails.
               </p>
             </div>
           </div>
-
-          <div className="flex flex-col items-center space-y-3">
-            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
-              <LightbulbIcon className="w-8 h-8" />
-            </div>
-            <div className="text-center space-y-1">
-              <h3 className="text-xl font-semibold">10% theory 90% doing</h3>
-              <p className="text-muted-foreground text-base">
-                You will build 10 projects!
-              </p>
-            </div>
-          </div>
-
-          <div className="flex flex-col items-center space-y-3">
-            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
-              <FlameIcon className="w-8 h-8" />
-            </div>
-            <div className="text-center space-y-1">
-              <h3 className="text-xl font-semibold">700+ hours of material</h3>
-              <p className="text-muted-foreground text-base">
-                If you follow this, you are gonna be a developer.. for sure
-              </p>
-            </div>
-          </div>
-
           <div className="flex flex-col items-center space-y-3">
             <div className="bg-muted rounded-full p-4 flex items-center justify-center">
               <TrophyIcon className="w-8 h-8" />
@@ -128,8 +90,57 @@ export default function TwoSellingPoints() {
             <div className="text-center space-y-1">
               <h3 className="text-xl font-semibold">Bonus 2</h3>
               <p className="text-muted-foreground text-base">
-                We teach you to build beautiful websites in less than 20 mins.
+                We teach you to build beautiful websites in less than an hour.
                 You can sell this to businesses.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex flex-col items-center space-y-3">
+            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
+              <SettingsIcon className="w-8 h-8" />
+            </div>
+            <div className="text-center space-y-1">
+              <h3 className="text-xl font-semibold">Learn to code with AI</h3>
+              <p className="text-muted-foreground text-base">
+                AI is cool and helpful. I'll teach you how to properly utilise
+                it.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex flex-col items-center space-y-3">
+            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
+              <FlameIcon className="w-8 h-8" />
+            </div>
+            <div className="text-center space-y-1">
+              <h3 className="text-xl font-semibold">Practical tech stack</h3>
+              <p className="text-muted-foreground text-base">
+                Learn the tech stack that most companies use.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex flex-col items-center space-y-3">
+            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
+              <LightbulbIcon className="w-8 h-8" />
+            </div>
+            <div className="text-center space-y-1">
+              <h3 className="text-xl font-semibold">10% theory 90% doing</h3>
+              <p className="text-muted-foreground text-base">
+                Theory is easy. Doing is hard. That's where we help you.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex flex-col items-center space-y-3">
+            <div className="bg-muted rounded-full p-4 flex items-center justify-center">
+              <FlameIcon className="w-8 h-8" />
+            </div>
+            <div className="text-center space-y-1">
+              <h3 className="text-xl font-semibold">560+ hours of material</h3>
+              <p className="text-muted-foreground text-base">
+                Everything you need to know to get a developer job.
               </p>
             </div>
           </div>
