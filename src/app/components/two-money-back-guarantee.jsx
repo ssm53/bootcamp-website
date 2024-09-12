@@ -47,12 +47,14 @@ export default function TwoMoneyBackGuarantee() {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6" />
         <div className="flex items-center justify-center">
-          <Button
-            variant="outline"
-            className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base"
-          >
-            APPLY NOW
-          </Button>
+          <a href="https://forms.gle/Kyz6t3iFxqzPNWYm8" target="_blank">
+            <Button
+              variant="outline"
+              className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base"
+            >
+              APPLY NOW
+            </Button>
+          </a>
         </div>
       </div>
     </section>

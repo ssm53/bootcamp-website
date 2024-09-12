@@ -16,12 +16,14 @@ export default function TwoNavbar() {
 
         {/* Buttons container */}
         <div className="ml-auto flex gap-4">
+        <a href="https://forms.gle/Kyz6t3iFxqzPNWYm8" target="_blank">
           <Button
             variant="outline"
             className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base ml-5"
           >
             APPLY NOW
           </Button>
+          </a>
           {/* <Button className="hover:bg-blue-900 px-8 py-3 text-base">
             GET FREE ACCESS
           </Button> */}

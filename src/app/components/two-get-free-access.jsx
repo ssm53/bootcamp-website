@@ -19,10 +19,18 @@ export default function TwoGetFreeAccess() {
               <p className="text-xl text-muted-foreground md:text-2xl">
                 7 actual projects (not just your normal build a to-do list)
               </p>
+              <br />
+              <p className="text-xl text-muted-foreground font-bold md:text-2xl mb-5">
+                Click the button below, fill up a few questions and get your
+                free access! We will email you your login credentials within a
+                day.
+              </p>
             </div>
-            <Button className="px-8 py-3 text-base hover:bg-blue-900">
-              GET FREE ACCESS
-            </Button>
+            <a href="https://forms.gle/NAAPmqp9cFuiYNzQ7" target="_blank">
+              <Button className="px-8 py-3 text-base hover:bg-blue-900">
+                GET FREE ACCESS
+              </Button>
+            </a>
           </div>
         </div>
       </div>

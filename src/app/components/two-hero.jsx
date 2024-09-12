@@ -41,15 +41,20 @@ export default function TwoHero() {
               </span>
             </div>
             <div className="flex gap-2">
-              <Button
-                variant="outline"
-                className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base"
-              >
-                APPLY NOW
-              </Button>
-              <Button className="hover:bg-blue-900 px-8 py-3 text-base">
-                GET FREE ACCESS
-              </Button>
+              <a href="https://forms.gle/Kyz6t3iFxqzPNWYm8" target="_blank">
+                <Button
+                  variant="outline"
+                  className="hover:bg-blue-900 hover:text-white px-8 py-3 text-base"
+                >
+                  APPLY NOW
+                </Button>
+              </a>
+
+              <a href="https://forms.gle/NAAPmqp9cFuiYNzQ7" target="_blank">
+                <Button className="hover:bg-blue-900 px-8 py-3 text-base">
+                  GET FREE ACCESS
+                </Button>
+              </a>
             </div>
           </div>
         </div>
