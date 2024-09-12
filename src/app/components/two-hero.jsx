@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 export default function TwoHero() {
   return (
-    <section className="w-full pt-12 md:pt-24 lg:pt-32">
+    <section className="w-full pt-24 md:pt-24 lg:pt-32 xl:py-48">
       <div className="container space-y-10 xl:space-y-16">
         <div className="grid gap-6 px-4 md:grid-cols-2 md:gap-16 lg:px-0">
           <div className="space-y-4">
