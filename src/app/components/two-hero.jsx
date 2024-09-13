@@ -138,7 +138,7 @@ export default function TwoHero() {
               </div>
               <div className="flex items-center gap-2 rounded-md bg-primary px-4 py-2 text-primary-foreground w-full max-w-[400px]">
                 <CheckIcon className="h-5 w-5" />
-                <span>Only 8 students per cohort</span>
+                <span>Only max 8 students per cohort</span>
               </div>
               <div className="flex items-center gap-2 rounded-md bg-primary px-4 py-2 text-primary-foreground w-full max-w-[400px]">
                 <CheckIcon className="h-5 w-5" />
@@ -173,6 +173,10 @@ export default function TwoHero() {
                 </Button>
               </a>
             </div>
+            <p className="text-lg font-bold text-red-600 mt-4">
+              LIMITED SPOTS. SECURE YOURS ASAP. THE 85% OG DISCOUNT IS ONLY
+              APPLICABLE TO OUR FIRST FEW BOOTCAMPS, AS A THANK YOU TO THE OG'S!
+            </p>
           </div>
         </div>
       </div>

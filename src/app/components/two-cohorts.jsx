@@ -6,9 +6,18 @@ export default function TwoCohorts() {
           Our Cohorts
         </h2>
         <ul className="space-y-4 text-xl text-muted-foreground md:text-2xl">
-          <li>15th October 2024</li>
-          <li>15th February 2025</li>
-          <li>15th June 2024</li>
+          <li>
+            15th October 2024{" "}
+            <span className="text-blue-500 font-bold">(5 spots left)</span>
+          </li>
+          <li>
+            15th February 2025{" "}
+            <span className="text-blue-500 font-bold">(6 spots left)</span>
+          </li>
+          <li>
+            15th June 2024{" "}
+            <span className="text-blue-500 font-bold">(8 spots left)</span>
+          </li>
         </ul>
       </div>
     </section>

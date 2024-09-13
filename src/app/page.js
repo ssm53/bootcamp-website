@@ -67,13 +67,13 @@ export default function HomePage() {
     <div>
       <TwoNavbar />
       <TwoHero />
+      <TwoCohorts />
       <TwoGetFreeAccess />
       <TwoBeginners />
       <TwoFounder />
       <TwoWhoSuitable />
       <TwoSellingPoints />
       <TwoMoneyBackGuarantee />
-      <TwoCohorts />
       <TwoWhatYouWilllearn />
       <TwoApplicationProcess />
       <TwoAdmissionRequirement />
