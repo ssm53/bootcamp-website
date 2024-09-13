@@ -177,6 +177,14 @@ export default function TwoHero() {
               LIMITED SPOTS. SECURE YOURS ASAP. THE 85% OG DISCOUNT IS ONLY
               APPLICABLE TO OUR FIRST FEW BOOTCAMPS, AS A THANK YOU TO THE OG'S!
             </p>
+            <a
+              href="https://www.tella.tv/video/intro-to-heylearn2codes-remote-full-stack-coding-bootcamp-d7r7"
+              target="_blank"
+            >
+              <Button className="hover:bg-blue-900 px-8 py-3 text-base">
+                CLICK HERE TO WATCH OUR INTRODUCTORY VIDEO
+              </Button>
+            </a>
           </div>
         </div>
       </div>
