@@ -46,7 +46,7 @@ export default function Component() {
               and cover letters under 20 seconds. This is in beta mode and is
               launching in Q4 2024.
             </p>
-            <p className="text-lg text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+            {/* <p className="text-lg text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               You can see more of my work{" "}
               <Link
                 href="https://www.ravewavedigital.com/"
@@ -66,7 +66,7 @@ export default function Component() {
                 Linkedin
               </Link>
               .
-            </p>
+            </p> */}
             <p className="text-lg text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               Previously, I studied at the Uni of Bath and and worked as an
               accountant at Deloitte in the UK. I then came back to my home

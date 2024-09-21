@@ -6,7 +6,7 @@ export default function TwoContactDetails() {
         <h2 className="text-5xl font-bold tracking-tighter text-gray-200 mb-10">
           Contact Details
         </h2>
-        <div className="grid grid-cols-1 gap-2">
+        {/* <div className="grid grid-cols-1 gap-2">
           <div className="flex items-center gap-2">
             <a
               href="mailto:shaun@heylearn2code.com"
@@ -27,7 +27,7 @@ export default function TwoContactDetails() {
               +6 012 339 7028
             </p>
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
